@@ -1,3 +1,3 @@
 # Noguia.github.io
 
-[noguia.github.io](https://noguia.github.io)
+[Noguia.github.io](https://Noguia.github.io)
